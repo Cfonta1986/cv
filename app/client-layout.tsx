@@ -1,7 +1,6 @@
 "use client"
 import { useState, useEffect } from "react";
 import { usePathname } from "next/navigation";
-import { Roboto_Mono } from "next/font/google";
 import { GlobalStyle, theme } from "@/app/styles"
 import styled, {ThemeProvider} from "styled-components";
 import Navmenu from "@/components/parts/nav-menu";
@@ -11,7 +10,6 @@ import {Email} from "@/components/parts/email"
 import {BaseLayout} from "@/components/parts/base"
 import {Footer} from "@/components/parts/footer"
 
-const roboto = Roboto_Mono({ subsets: ["latin"] });
 
 const StyledContent = styled.div`
   display: flex;
@@ -19,7 +17,7 @@ const StyledContent = styled.div`
   min-height: 100vh;
 `;
 
-export default function RootLayout({
+export default function ClientLayout ({
   children,
 }: Readonly<{
   children: React.ReactNode;
