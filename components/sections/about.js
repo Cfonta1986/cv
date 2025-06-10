@@ -135,12 +135,7 @@ export const About = () => {
             </p>
 
             <p>
-              Me formé en Marketing Digital en {' '}<a href="https://grow.google/intl/es/">Google Activate</a>, Diseño de Páginas Web con Wordpress, Desarrollador FRONT-END y Python para Data Science en {' '}<a href="https://www.aluracursos.com/">Alura</a> / {' '}<a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle</a> y {' '}<a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Argentina Programa 4.0</a>.
-              Mi objetivo en estos momentos es poder crear una experiencia digital en {' '}<a href="https://profeencasa.online">Profe en casa</a>.
-            </p>
-
-            <p>
-              Mi idea realizar una pagina por completo en la cual interactúen correctamente el Front-End con el Back-End todo desarrollado con mis manos.
+              Me formé en Marketing Digital en {' '}<a href="https://grow.google/intl/es/">Google Activate</a>, Diseño de Páginas Web con Wordpress, Desarrollador FRONT-END y Python para Data Science en {' '}<a href="https://www.aluracursos.com/">Alura</a> / {' '}<a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle</a> y {' '}<a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Argentina Programa 4.0</a>.              
             </p>
 
             <p>Aquí hay algunas tecnologías con las que he estado trabajando recientemente:</p>

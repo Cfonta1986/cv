@@ -67,13 +67,13 @@ srConfig: (delay = 200, viewFactor = 0.25) => ({
 
 featureProjects: [
   {
-    title: 'Profe en casa',
-    cover: '/profeencasa.png',
-    github: 'https://github.com/Cfonta1986',
-    external: 'https://www.profeencasa.online',
+    title: 'Bar Idilio',
+    cover: '/baridilio.png',
+    github: 'https://github.com/Cfonta1986/bar-idilio',
+    external: 'https://bar-idilio.vercel.app/',
     descriptionHtml:
-      'Chat Bot creado para ayudar de manera personalizada al alumno y al docente. Realizado con sistema de autenticación y Base de Datos. <a target="_blank" rel="noreferrer" href="https://www.profeencasa.online">Probalo!</a> ',
-    techs: ['MongoDB', 'Typescript', 'OpenAi API', 'Next-Auth', 'TailWind'],
+      'Pagina web sencilla pero completa, con un diseño atractivo y moderno. ',
+    techs: ['Typescript', 'Javascript', 'TailWind'],
   },
   {
     title: 'Curriculum v1',

@@ -68,7 +68,7 @@ export const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.profeencasa.online"
+      href="https://bar-idilio.vercel.app/"
       target="_blank"
       rel="noreferrer">
         Mirá mi trabajo
