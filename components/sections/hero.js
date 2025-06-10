@@ -61,7 +61,7 @@ export const Hero = () => {
   const four = (
     <>
       <p>
-        Soy un desarrollador especializado en la creación de páginas web. Mi formación incluye un enfoque en el desarrollo Front-End pero sin dejar atrás el conocimiento en Back-End.
+        Desarrollador Web Full-Stack. Apasionado por la innovación, integro soluciones de Inteligencia Artificial para potenciar la funcionalidad y la experiencia del usuario en aplicaciones web modernas.
       </p>
     </>
   );

@@ -131,11 +131,10 @@ export const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola! Mi nombre es Cristián y disfruto mucho intentando crear paginas web. Mi enfoque principal está en el ámbito del Desarrollo Web. Me siento atraído por los desafíos y poseo una naturaleza detallista y autodidacta que me impulsa constantemente a buscar oportunidades para el crecimiento personal y profesional.
+              ¡Hola! Soy Cristián, un Desarrollador Web y entusiasta de la tecnología. Mi enfoque es la creación de sitios web dinámicos, combinando mi experiencia en Desarrollo Front-End con una nueva pasión: la Inteligencia Artificial.
             </p>
-
             <p>
-              Me formé en Marketing Digital en {' '}<a href="https://grow.google/intl/es/">Google Activate</a>, Diseño de Páginas Web con Wordpress, Desarrollador FRONT-END y Python para Data Science en {' '}<a href="https://www.aluracursos.com/">Alura</a> / {' '}<a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle</a> y {' '}<a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Argentina Programa 4.0</a>.              
+              Disfruto aplicando mis conocimientos para construir funcionalidades modernas, como chatbots conversacionales con la API de {' '}<a href="https://openai.com/es-ES/">OpenAI</a> y utilizando IA para agilizar la creación de sitios web. Mi naturaleza detallista y autodidacta, junto con mi formación en Marketing Digital {' '}<a href="https://grow.google/intl/es/">Google Activate</a>, Diseño de Páginas Web con Wordpress, Desarrollador FRONT-END y Python para Data Science en {' '}<a href="https://www.aluracursos.com/">Alura</a> / {' '}<a href="https://www.oracle.com/ar/education/oracle-next-education/">Oracle</a> y {' '}<a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa">Argentina Programa 4.0</a>, me permite abordar cada proyecto con una visión integral y enfocada en el crecimiento.
             </p>
 
             <p>Aquí hay algunas tecnologías con las que he estado trabajando recientemente:</p>
