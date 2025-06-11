@@ -27,6 +27,10 @@ navLinks: [
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/cristian-fontanini/',
     },
+    {
+      name: 'Whatsapp',
+      url: 'https://wa.me/3413245822',
+    },
   ],
   email: 'cristianfonta16@gmail.com',
   navDelay: 1000,
